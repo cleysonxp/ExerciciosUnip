@@ -1,2 +1,2 @@
 # Exercicios de programação
-Exercícios feitos na aulas de programação da faculdade UNIP do curso de Sistemas de Informação
+Atividades realizadas durante o bacharelado em Sistemas de Informação na instituição UNIP.

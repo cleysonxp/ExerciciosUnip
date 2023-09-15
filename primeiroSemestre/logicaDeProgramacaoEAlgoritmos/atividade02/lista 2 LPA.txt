@@ -1,0 +1,91 @@
+1 - Elaborar um algoritmo que ler A, B e C de uma equação de segundo grau e calcular as raízes, se existirem. 
+
+2 - Elaborar um algoritmo que ler um número inteiro e mostrar uma mensagem indicando se estenúmero é par ou ímpar, e se é positivo ou negativo. 
+
+3 – O cardápio de uma lanchonete é o seguinte:
+
+Especificação 	Preço 	unitário
+100	Cachorro quente	7,90
+101	Bauru simples	4,90
+102	Bauru c/ovo	6,50
+103	Hamburger	9,90
+104	Cheeseburger	10,90
+105	Refrigerante	3,60
+
+
+Escrever um algoritmo em pseudoódigo que leia o código do item pedido, a quantidade e calcule o valor a ser pago por aquele lanche. Caso seja digitado um código que não existe, envie a mensagem “Item não encontrado no cardápio”.
+
+
+4 - Crie um algoritmo que leia 3 valores inteiros e verifique se eles podem formar um triângulo. Se for possível formar um triangulo, escreva uma mensagem informando se é um triângulo equilátero, isósceles ou escaleno.
+
+Observações:
+a) O comprimento de um lado do triângulo é sempre menor do que a soma dos outros dois.
+b) Equilátero; Todos lados iguais
+c) Isósceles; Dois lados iguais
+d) Escaleno; Todos os lados diferentes
+
+5 - Crie um algoritmo que Ler três valores e um código de condição. Se o código for “c” os valores devem ser escritos em ordem crescente. Se o código for
+“d”, deve-se escrevê-los em ordem decrescente. 
+
+6 - Uma empresa concederá um aumento de salário aos seus
+funcionários, variável de acordo com o cargo, conforme a tabela
+abaixo. Faça um algoritmo que leia o salário e o código do cargo
+de um funcionário e calcule o seu novo salário. Se o cargo do
+funcionário não estiver na tabela, ele deverá, então, receber 15%
+de aumento. Mostre o salário antigo, o novo salário e a diferença
+entre ambos.
+
+Código   %
+---------------
+310     5.0
+---------------
+456     7.5
+---------------
+885     10.0
+---------------
+
+7 - Elaborar um algoritmo que, dada a idade de um nadador,
+classificá-lo nas categorias: infantil A (5 - 7 anos), infantil B (8
+-10 anos), juvenil A (11 - 13 anos), juvenil B (14 -17 anos) e
+adulto (maiores que 18 anos). 
+
+8- Faça um algoritmo que leia o nome, o sexo e o estado civil de uma pessoa. Caso sexo seja “F” e estado civil seja “CASADA”, solicitar o tempo de casada (anos). 
+
+9- Faça um algoritmo que leia dois valores inteiros A e B se os valores forem iguais deverá se somar os dois, caso contrário multiplique A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado para uma variável C e mostrar seu conteúdo na tela.
+
+10 - O IMC – Indice de Massa Corporal é um critério da Organização Mundial de Saúde para dar 
+umaindicação sobre a condição de peso de uma pessoa adulta. A fórmula é IMC = peso / ( altura )2
+ 
+Elabore um algoritmo que leia o peso e a altura de um adulto e mostre sua condição de acordo 
+com a tabela abaixo. 
+IMC em adultos Condição 
+Abaixo de 18,5 Abaixo do peso 
+Entre 18,5 e 25 Peso normal 
+Entre 25 e 30 Acima do peso 
+Acima de 30 obeso 
+
+11 - Faça um algoritmo que leia uma variável e some 5 caso seja par ou some 8 caso seja ímpar, 
+imprimir o resultado desta operação. 
+
+12 -Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que 
+calcule seu peso ideal, utilizando as seguintes fórmulas: 
+● para homens: (72.7 * h) – 58; 
+● para mulheres: (62.1 * h) – 44.7
+
+13 - Escrever um programa de computador que leia 12 números inteiros e, ao final, apresente a soma de todos os números lidos.
+
+14 - Faça o mesmo que antes, porém, ao invés de ler 10 números, o programa deverá ler e somar números até que o valor digitado seja zero ( 0 ).
+
+15 - Escrever um algoritmo que imprima a tabuada de um número informado pelo usuário.
+
+16 - Escreva um algoritmo que calcule a média dos números digitados pelo usuário, se eles forem pares. Termine a leitura se o usuário digitar zero (0).
+
+17 - Escreva um algoritmo que leia um valor correspondente ao número de jogadores de um time de vôlei. O algoritmo deverá ler uma altura para cada um dos jogadores e, ao final, informar a altura média do time.
+
+18 - Escreva um algoritmo que leia um número inteiro, calcule e informe o seu fatorial (n!).
+Por exemplo: 
+5! = 5 * 4 * 3 * 2 * 1 = 120
+4! = 4 * 3 * 2 * 1 = 24
+6! = 6 * 5 * 4 * 3 * 2 * 1 = 720
+1! = 1
+0! = 1

@@ -1,0 +1,28 @@
+Lista 1 de LPA
+
+1 -  Desenvolva um algoritmo (fluxograma e psedocodigo ViuAlg) no qual imprima seu nome completo
+
+2 - Resolva as expressões matemáticas manualmente no caderno,
+ após, converta as seguintes expressões matemáticas para que possam
+ ser calculadas num algoritmo (fluxograma e psedocodigo ViuAlg), confirmando o resultado encontrado manualmente). 
+a) 10 + 20 x 30
+b) 2x(4 -15) + 2x6
+c) 4^2 ÷ 30
+
+3 - Escreva um algoritmo (fluxograma e psedocodigo ViuAlg) que receba o valor do salário, do aumento (%) e calcule o valor do novo salário. Considere o salário de R$ 1750,00 e o aumento de 5%.
+
+4 – Escreva um algoritmo (fluxograma e psedocodigo ViuAlg) que recebe duas notas (P1 e P2), calcula e mostrar a média. Ao final, o programa deve mostrar se houve aprovação ou não (para isso, utilizar apenas as palavras True ou False) sabendo que a média de aprovação é 7.
+
+5 – Faça um algoritmo (fluxograma e psedocodigo ViuAlg) que recebe o Raio (R) de uma circunferência, calcula e mostra o valor de sua Área (sabendo que A = p.R2).
+
+6 – Escreva um algoritmo (fluxograma e psedocodigo ViuAlg) que converte e mostra uma temperatura digitada em ºC (graus Celsius) para ºF (graus Fahrenheit). A formula para a conversão é:  𝐹=(9.𝐶)/5+32
+
+7 – Escreva um algoritmo (fluxograma e psedocodigo ViuAlg) que lê a quantidade de dias, horas, minutos e segundos do usuário, calcula e mostra o total do tempo em segundos.
+
+8 - Escreva Escreva um algoritmo (fluxograma e psedocodigo ViuAlg) que calcule a soma de três números reais lidos no console e mostre o resultado na tela.
+
+9 - Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
+
+10 - Este exercício é apenas um desafio de lógica. Escreva um algoritmo (fluxograma e pseudocódigo) que leia um número inteiro na variável A e outro número inteiro na variável B. A seguir (utilizando apenas atribuições entre variáveis) troque os seus conteúdos fazendo com que o valor que está em A passe para B e vice-versa. Ao final, escrever os valores que ficaram armazenados nas variáveis.
+
+ 
