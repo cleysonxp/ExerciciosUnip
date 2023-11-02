@@ -1,0 +1,23 @@
+Lista de exercício: Vetores
+
+1. Ler dez elementos de vetor do tipo inteiro e apresentar os valores lidos. 
+
+2. Ler oito elementos inteiros em um vetor (A). Construir um vetor B demesma dimensão com os elementos do vetor A multiplicados por 3. Após isto, apresente números do vetor B. Exemplo: o elemento B|0] deve ser implicado pelo elemento A[0)*3, o elemento B[1] deve ser implicado pelo elemento A[1]*3 e assim por diante, até a última posição.
+
+3. Crie um algoritmo para ler 10 números inteiros e mostrar os números pares deste vetor.
+
+4. Crie um algoritmo para ler 15 números inteiros e mostrar no final, os que forem maiores ou igual a 10.
+
+5. Faça um algoritmo que leia 20 números e armazene em um vetor. Depois, some os 10 primeiros elementos deste vetor.
+
+6. Faça um algoritmo para ler um vetor com 10 elementos e inverter a posição destes elementos, de tal modo que o primeiro elemento venha a ser o último depois da inversão.
+
+7. Faça um algoritmo que leia 30 valores do tipo inteiro e armazene-os em um vetor. A seguir, o algoritmo deverá informar (1) todos os números pares que existem no vetor; (2) o menor e o maior valor existente no vetor; (3) quantos dos valores do vetor são maiores que a média desses valores:
+
+8. Faça um algoritmo que leia 10 valores numéricos inteiros em um vetor e três valores inteiros nas variáveis A B e C. Após a leitura, informe o número de vezes que os números A, B e C apareceram no vetor.
+
+9. Crie um programa que armazene 10 números digitados pelo usuário em dois vetores: um somente para números pares, e outro somente para números ímpares.
+Após, exiba os valores dos dois vetores na tela, em sequência.
+Obs.: As posições que não receberem valores exibirão o número zero. 
+
+10. Fazer um programa para ler 5 valores num vetor e, em seguida, mostrar todos os valores lidos juntamente com o maior, o menor e a media dos valores.
