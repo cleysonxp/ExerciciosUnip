@@ -19,14 +19,9 @@ Var
 Inicio
 Escreva("Digite a altura da pessoa: ")
 Leia(altura)
-
 Escreva("Digite o sexo da pessoa (m para masculino, f para feminino): ")
 Leia(sexo)
-
-sexo <- sexo
-
 pesoIdeal <- calcularPesoIdeal(altura, sexo)
-
 Se pesoIdeal <> 0.0 Entao
     Escreva("O peso ideal da pessoa é: ", pesoIdeal)
 Senao
