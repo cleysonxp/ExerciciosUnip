@@ -1,9 +1,18 @@
 public class Pessoa {
     private String nome;
     private int idade;
+    private Endereco endereco;
 
     public Pessoa(String nome, int idade) {
         this.nome = nome;
+        this.idade = idade;
+    }
+
+    public Pessoa(String nome) {
+        this.nome = nome;
+    }
+
+    public Pessoa(int idade) {
         this.idade = idade;
     }
 
@@ -23,7 +32,15 @@ public class Pessoa {
         this.idade = idade;
     }
 
-    public void imprimirDados(){
+    public void setEndereco(Endereco endereco) {
+        this.endereco = endereco;
+    }
+
+    public void imprimirDados() {
         System.out.println("Nome: " + nome + ", Idade: " + idade);
+
+        if (this.endereco != null) {
+            this.endereco.imprime();
+        }
     }
 }
